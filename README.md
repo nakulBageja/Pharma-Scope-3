@@ -1,7 +1,9 @@
 # Scope 3 accounting for transportation and distribution services of Pharma company
 
 ## Company Supply chain
+
 <img href="./Assets/XYZ PHARMA (USA).png"/>
+
 ## Assumptions made for the data
 1. The Transportation and distribution services are purchased by the reporting company in the reporting year.
 2. Category 4 of Scope 9 standards to be considered, i.e. (Upstream transportation and distribution)
