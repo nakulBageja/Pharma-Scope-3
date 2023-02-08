@@ -15,5 +15,11 @@
 - [x] EDA
 - [ ] Data Cleaning
     - [x] Fixing weight column and converting the data in tonnes.
-    - [ ] Addition of coordinates for the source and destination location/
+    - [x] Addition of coordinates for the source location
+    - [ ] Addition of coordinates for the destination location
     - [ ] Addition of emission factors
+    
+## Packages used
+1. Pandas 
+2. Numpy
+3. ArcGIS from Geopy
