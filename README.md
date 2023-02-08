@@ -2,7 +2,7 @@
 
 ## Company Supply chain
 
-<img src="./Assets/XYZ PHARMA (USA).png"/>
+<img src="./Assets/XYZ PHARMA (USA).png" width="150px" height="150px"/>
 
 ## Assumptions made for the data
 1. The Transportation and distribution services are purchased by the reporting company in the reporting year.
@@ -15,8 +15,10 @@
 - [x] EDA
 - [ ] Data Cleaning
     - [x] Fixing weight column and converting the data in tonnes.
-    - [x] Addition of coordinates for the source location
+    - [ ] Addition of coordinates for the source location
+        - if mode is AIR then it should be the airport of that city. If ocean, then the nearest port of that city. If road then that place coordinates
     - [ ] Addition of coordinates for the destination location
+        - Get the appropriate location name, port/airport.
     - [ ] Addition of emission factors
     
 ## Packages used
