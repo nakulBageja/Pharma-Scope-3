@@ -16,8 +16,7 @@
 - [ ] Data Cleaning
     - [x] Fixing weight column and converting the data in tonnes.
     - [ ] Addition of coordinates for the source location
-        - if mode is AIR then it should be the airport of that city. If ocean, then the nearest port of that city. If road then that place coordinates.
-        - Methodology - Finding the nearest airport inside 100 km radius of the location given.
+        - if mode is AIR then it should be the airport nearest to the manufacturing site. If ocean, then the nearest port of that city. If road then manufacturing place coordinates.
     - [ ] Addition of coordinates for the destination location
         - Get the appropriate location name, port/airport.
     - [ ] Addition of emission factors
