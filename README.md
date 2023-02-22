@@ -15,7 +15,7 @@
 - [x] EDA
 - [ ] Data Cleaning
     - [x] Fixing weight column and converting the data in tonnes.
-    - [ ] Addition of coordinates for the source location
+    - [x] Addition of coordinates for the source location
         - if mode is AIR then it should be the airport nearest to the manufacturing site. If ocean, then the nearest port of that city. If road then manufacturing place coordinates.
     - [ ] Addition of coordinates for the destination location
         - Get the appropriate location name, port/airport.
