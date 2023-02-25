@@ -13,17 +13,22 @@
 4. Source location has been mentioned in the 'Manufacturing Site' column, need to extract the city name and coordinates.
     1. Global data of airports and ports is used to find the nearest transport location to the manufacturing site.
     2. In the airports data, many different types of airports are mentioned. I have considered all the airports for calculating the nearest airport.
+5. Emission factors for each transport mode is a generalised value taken from GHG.
+
 
 ## TO-DO
 - [x] Data Finding
 - [x] EDA
-- [ ] Data Cleaning
+- [x] Data Cleaning
     - [x] Fixing weight column and converting the data in tonnes.
     - [x] Addition of coordinates for the source location
         - if mode is AIR then it should be the airport nearest to the manufacturing site. If ocean, then the nearest port of that city. If road then manufacturing place coordinates.
     - [x] Addition of coordinates for the destination location
         - Get the appropriate location name, port/airport.
-    - [ ] Addition of emission factors
+    - [x] Finding distance between each coordinates.
+    - [x] Addition of emission factors
+    - [x] Calculating the emissions
+- [ ] Analysis
     
 ## Packages used
 1. Pandas 
@@ -34,3 +39,5 @@
 - [x] Finding out all the distinct manufacturing site along with it's mode of transport. Then applying getSourceLocation function on that df. Will prevent in calling a function from 1200 times to 80 times.
 - [ ] Finding the airport/port even if the country and continent were not found for a location.
 - [ ] Combining getSourceLocation and getDestinationCoordinates functions
+- [ ] Using better API/Algorithm to calculate Road and Sea distance
+- [ ] Optimizing the code and README.
