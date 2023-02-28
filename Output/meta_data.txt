@@ -1,0 +1,24 @@
+## Description of each field in the final_df
+
+0. ID - Unique ID for each transport
+1. Destination_Country - The country where the final goods are transported for use.
+2. Mode - This is the mode of transport from the country of manufacturing_site to the destination_country location
+3. Manufacturing_site - Name of the manufacturer where the items are made.
+4. Weight - The total weight of the item being transported in KG
+5. Delivery_Date - The date on which the delivery was completed
+6. Item Description - Description of the item being transported
+7. source - The coordinates of the manufacturing place (Latitude, Longitude)
+8. departure - The coordinates of the Airport/Port nearest to the manufacturing site from which the items are transported to the destination_country (Latitude, Longitude)
+9. source_mode - The mode of transport used to transfer the items from manufacturing site to the Airport/Port location
+10. destination_iso_country - ISO2 name for the destination country.
+11. arrival - The coordinates of the Airport/Port nearest to the destination.(Latitude, Longitude)
+12. destination - The coordinates of the destination place. (Latitude, Longitude)
+13. destination_mode - The mode of transport used to transfer the items from arrival location to destination.
+14. total_num_of_transports - Total number of transports used to reach the destination from source.
+15. dist_arrival_to_destination - Total distance from arrival to destination location.
+16. dist_departure_to_arrival - Total distance from departure to arrival location.
+17. dist_source_to_departure - Total distance from source to departure location.
+18. emissions_source_to_departure - Total emissions from source to departure location.
+19. emissions_departure_to_arrival - Total emissions from departure to arrival location.
+20. emissions_arrival_to_destination - Total emissions from arrival to destination location.
+21. total_emissions - Summation of the total emissions from source to destination location.
