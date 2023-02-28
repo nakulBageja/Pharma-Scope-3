@@ -51,7 +51,7 @@ This project aims to implement Scope 3 Accounting for transportation data in a p
 <a name="results"></a>
 ## Results
 <a href="Output/pharma_scope3_category9_emissions.csv"> Results in CSV </a>
-<img src="./Assets/Results.jpg" width="150" height="280"/>
+<img src="./Assets/Results.jpg"/>
 
 I will the post the Power BI tool link in the coming future.
 
