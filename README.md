@@ -34,7 +34,7 @@ This project aims to implement Scope 3 Accounting for transportation data in a p
 
 <a name="assumptions"></a>
 ## Assumptions made regarding the data
-1. The Transportation and distribution services are purchased by the reporting company in the reporting year.
+1. The Transportation and distribution services are not purchased by the reporting company in the reporting year.
 2. Category 9 of Scope 3 standards to be considered, i.e. (Downstream transportation and distribution)
 3. Destination location has been specified in the 'country' column. Since the city name has not been mentioned, I will assume:
     1. The Air/Road transport to be in the Capital city, so calculating the nearest airport to the capital city. 
