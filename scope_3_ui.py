@@ -1,8 +1,7 @@
 import pandas as pd
 import streamlit as st
 import plotly.express as px
-import base64
-from io import BytesIO
+# import pdfkit
 
 st.set_page_config(page_title="ZedAI",
                    page_icon="🧊",
