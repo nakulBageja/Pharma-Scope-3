@@ -8,3 +8,5 @@ searoute
 country_converter
 plotly
 streamlit
+XlsxWriter
+kaleido
