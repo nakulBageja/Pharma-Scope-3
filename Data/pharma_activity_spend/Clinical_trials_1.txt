@@ -1,0 +1,15 @@
+trial_id,drug_name,phase,trial_type,patient_population,location,total_cost,planned_start_date,planned_end_date,actual_start_date,actual_end_date
+1,Drug A,Phase I,First-in-human,Healthy volunteers,USA,$5,000,000,2022-01-01,2022-06-30,2022-01-10,2022-07-01
+2,Drug A,Phase II,Efficacy,Patients with disease X,USA,$8,000,000,2022-04-01,2023-03-31,2022-04-05,2023-04-01
+3,Drug A,Phase III,Confirmatory,Patients with disease X,USA,$12,000,000,2023-01-01,2024-06-30,2023-01-10,2024-07-01
+4,Drug B,Phase I,First-in-human,Healthy volunteers,Canada,$6,000,000,2022-03-01,2022-08-31,2022-03-15,2022-09-01
+5,Drug B,Phase II,Efficacy,Patients with disease Y,Canada,$9,000,000,2022-06-01,2023-05-31,2022-06-05,2023-06-01
+6,Drug B,Phase III,Confirmatory,Patients with disease Y,Canada,$13,000,000,2023-03-01,2024-08-31,2023-03-15,2024-09-01
+7,Drug C,Phase I,First-in-human,Healthy volunteers,France,$5,500,000,2022-02-01,2022-07-31,2022-02-05,2022-08-01
+8,Drug C,Phase II,Efficacy,Patients with disease Z,France,$8,500,000,2022-05-01,2023-04-30,2022-05-05,2023-05-01
+9,Drug C,Phase III,Confirmatory,Patients with disease Z,France,$12,500,000,2023-02-01,2024-07-31,2023-02-05,2024-08-01
+10,Drug D,Phase I/II,Combination,Patients with disease A and B,USA,$10,000,000,2022-07-01,2023-06-30,2022-07-05,2023-07-01
+11,Drug D,Phase III,Confirmatory,Patients with disease A and B,USA,$15,000,000,2023-04-01,2024-09-30,2023-04-05,2024-10-01
+12,Drug E,Phase I,First-in-human,Healthy volunteers,Germany,$5,000,000,2022-08-01,2023-01-31,2022-08-05,2023-02-01
+13,Drug E,Phase II,Efficacy,Patients with disease C,Germany,$8,000,000,2022-11-01,2023-10-31,2022-11-05,2023-11-01
+14,Drug E,Phase III,Confirmatory,Patients with disease C,Germany,$12

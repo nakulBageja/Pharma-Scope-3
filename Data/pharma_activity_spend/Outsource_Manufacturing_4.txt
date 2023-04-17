@@ -1,0 +1,48 @@
+Supplier Name,Quantity,Cost
+ABC Pharmaceuticals,100,5000
+Pharma Manufacturing Corp,200,8000
+Medico Remedies,150,6000
+Esskay Pharmaceuticals,75,4000
+Zydus Cadila,250,10000
+Glenmark Pharmaceuticals,180,7000
+Torrent Pharmaceuticals,120,5000
+Cipla Limited,300,12000
+Dr. Reddy's Laboratories,220,9000
+Lupin Limited,180,7000
+Alembic Pharmaceuticals,100,5000
+Sun Pharmaceutical Industries,250,10000
+Aurobindo Pharma,200,8000
+Emcure Pharmaceuticals,150,6000
+Jubilant Life Sciences,100,5000
+Ipca Laboratories,120,5000
+Hetero Drugs,180,7000
+Wockhardt Limited,250,10000
+Macleods Pharmaceuticals,300,12000
+Intas Pharmaceuticals,220,9000
+Unichem Laboratories,180,7000
+Ajanta Pharma,100,5000
+Alkem Laboratories,200,8000
+Zuventus Healthcare,150,6000
+Gufic Biosciences,75,4000
+Mankind Pharma,250,10000
+Micro Labs Limited,180,7000
+Indoco Remedies,120,5000
+Novartis India,300,12000
+Fresenius Kabi Oncology,220,9000
+Sandoz Pvt Ltd,180,7000
+GSK Pharma,100,5000
+Sanofi India,250,10000
+AstraZeneca Pharma India,200,8000
+Pfizer Ltd,150,6000
+Merck Ltd,75,4000
+Abbot India,250,10000
+Bayer Zydus Pharma,180,7000
+Bristol-Myers Squibb India,120,5000
+Eli Lilly and Company India,300,12000
+Johnson & Johnson India,220,9000
+Novo Nordisk India,180,7000
+Roche India,100,5000
+Takeda India,250,10000
+Boehringer Ingelheim India,200,8000
+Biogen India,150,6000
+Stryker India,75,4000

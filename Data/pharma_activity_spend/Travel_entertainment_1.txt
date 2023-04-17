@@ -1,0 +1,24 @@
+Date,Expense Type,Expense Description,Amount,Client Name,Activity Type,Activity Description
+2022-01-01,Business Travel,Airfare,500,Johnson & Johnson,Product Presentation,Presented new drug for arthritis treatment
+2022-01-02,Business Travel,Hotel Accommodation,250,Pfizer,Product Demonstration,Demonstrated new drug for diabetes management
+2022-01-03,Business Travel,Meals and Entertainment,150,Merck & Co.,Product Promotion,Promoted new drug for heart disease treatment
+2022-01-05,Business Travel,Airfare,600,GlaxoSmithKline,Product Presentation,Presented new drug for cancer treatment
+2022-01-06,Business Travel,Hotel Accommodation,300,AbbVie,Product Demonstration,Demonstrated new drug for asthma management
+2022-01-07,Business Travel,Meals and Entertainment,200,Novartis,Product Promotion,Promoted new drug for chronic pain relief
+2022-01-10,Business Travel,Airfare,400,Bayer,Product Presentation,Presented new drug for hypertension treatment
+2022-01-11,Business Travel,Hotel Accommodation,200,Amgen,Product Demonstration,Demonstrated new drug for osteoporosis management
+2022-01-12,Business Travel,Meals and Entertainment,100,Bristol-Myers Squibb,Product Promotion,Promoted new drug for depression treatment
+2022-01-15,Business Travel,Airfare,500,Roche,Product Presentation,Presented new drug for multiple sclerosis treatment
+2022-01-16,Business Travel,Hotel Accommodation,250,Abbott Laboratories,Product Demonstration,Demonstrated new drug for Parkinson's disease management
+2022-01-17,Business Travel,Meals and Entertainment,150,Sanofi,Product Promotion,Promoted new drug for Alzheimer's disease treatment
+2022-02-01,Business Travel,Airfare,600,Johnson & Johnson,Product Presentation,Presented new drug for HIV treatment
+2022-02-02,Business Travel,Hotel Accommodation,300,Pfizer,Product Demonstration,Demonstrated new drug for autoimmune disease management
+2022-02-03,Business Travel,Meals and Entertainment,200,Merck & Co.,Product Promotion,Promoted new drug for stroke treatment
+2022-02-05,Business Travel,Airfare,500,GlaxoSmithKline,Product Presentation,Presented new drug for inflammatory bowel disease treatment
+2022-02-06,Business Travel,Hotel Accommodation,250,AbbVie,Product Demonstration,Demonstrated new drug for migraine management
+2022-02-07,Business Travel,Meals and Entertainment,150,Novartis,Product Promotion,Promoted new drug for ADHD treatment
+2022-02-10,Business Travel,Airfare,400,Bayer,Product Presentation,Presented new drug for epilepsy treatment
+2022-02-11,Business Travel,Hotel Accommodation,200,Amgen,Product Demonstration,Demonstrated new drug for psoriasis management
+2022-02-12,Business Travel,Meals and Entertainment,100,Bristol-Myers Squibb,Product Promotion,Promoted new drug for anxiety treatment
+2022-02-15,Business Travel,Airfare,500,Roche,Product Presentation,Presented new drug for leukemia treatment
+

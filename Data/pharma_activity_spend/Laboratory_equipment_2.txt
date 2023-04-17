@@ -1,0 +1,20 @@
+Supplier Name,Equipment Type,Equipment Model,Purchase Date,Unit Price,Quantity,Purchase Total,Maintenance Costs,Transport Mode,Distance Traveled (in km),Fuel Consumed (in liters),Fuel Type
+ABC Company,Microscope,Model 123,01/01/2021,500,2,1000,150,Truck,250,50,Petrol
+XYZ Corporation,Centrifuge,Model 456,02/05/2021,1000,1,1000,200,Train,500,100,Diesel
+EFG Enterprises,Pipette,Model 789,03/10/2021,50,5,250,50,Truck,100,20,Diesel
+QRS Inc.,Incubator,Model 234,04/15/2021,2000,1,2000,500,Train,1000,200,Petrol
+GHI Co.,Lab Scale,Model 567,05/20/2021,1500,3,4500,600,Truck,500,100,Diesel
+LMN Enterprises,Oven,Model 890,06/25/2021,3000,2,6000,800,Truck,750,150,Petrol
+OPQ Corporation,Fume Hood,Model 123,07/30/2021,4000,1,4000,1000,Train,1500,300,Diesel
+QRS Inc.,Shaker,Model 456,08/30/2021,1000,2,2000,300,Truck,250,50,Petrol
+ABC Company,Centrifuge,Model 789,09/30/2021,1500,1,1500,200,Train,750,150,Diesel
+XYZ Corporation,Microscope,Model 234,10/30/2021,500,3,1500,300,Truck,500,100,Petrol
+EFG Enterprises,Pipette,Model 567,11/30/2021,50,10,500,100,Train,250,50,Diesel
+QRS Inc.,Incubator,Model 890,12/30/2021,3000,1,3000,500,Truck,1000,200,Petrol
+ABC Company,Fume Hood,Model 123,01/01/2022,4000,1,4000,1000,Truck,500,100,Diesel
+XYZ Corporation,Lab Scale,Model 456,02/05/2022,2000,2,4000,600,Train,750,150,Petrol
+EFG Enterprises,Shaker,Model 789,03/10/2022,1000,1,1000,200,Truck,250,50,Diesel
+QRS Inc.,Microscope,Model 234,04/15/2022,500,2,1000,150,Train,250,50,Petrol
+GHI Co.,Centrifuge,Model 567,05/20/2022,1500,1,1500,200,Truck,500,100,Diesel
+LMN Enterprises,Pipette,Model 890,06/25/2022,50,5,250,50,Train,100,20,Petrol
+

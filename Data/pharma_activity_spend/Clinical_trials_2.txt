@@ -1,0 +1,15 @@
+Trial ID,Phase,Drug/ Product Name,Start Date,End Date,Total Cost (USD),Purpose,Location,Participants Enrolled,Enrollment Status,Enrollment Rate (%),Notes
+CT-001,Phase I,Drug A,01/01/2020,31/12/2021,500,000,Assess safety and tolerability,USA,30,Completed,100,Data under review
+CT-002,Phase II,Drug B,15/03/2020,14/05/2022,1,200,000,Assess efficacy and safety,USA,100,Completed,95,Publication pending
+CT-003,Phase III,Drug C,10/06/2021,09/12/2023,5,000,000,Assess efficacy and safety,Europe,500,Enrolling,75,In collaboration with academic institution
+CT-004,Phase I,Product X,01/01/2022,31/12/2023,750,000,Assess safety and tolerability,Asia,50,Enrolling,50,Partially funded by government grant
+CT-005,Phase II,Product Y,15/06/2022,14/08/2024,1,800,000,Assess efficacy and safety,Africa,200,Enrolling,40,In collaboration with contract research organization
+CT-006,Phase III,Drug D,10/09/2022,09/03/2025,7,500,000,Assess efficacy and safety,USA,1000,Enrolling,50,Managed by external clinical research organization
+CT-007,Phase I,Drug E,01/01/2023,31/12/2024,600,000,Assess safety and tolerability,Europe,20,Not yet started,0,In-house clinical team
+CT-008,Phase II,Drug F,15/03/2023,14/05/2025,1,400,000,Assess efficacy and safety,Asia,150,Not yet started,0,In collaboration with academic institution
+CT-009,Phase III,Product Z,10/06/2023,09/12/2025,6,000,000,Assess efficacy and safety,USA,400,Not yet started,0,In-house clinical team
+CT-010,Phase I,Drug G,01/01/2024,31/12/2025,550,000,Assess safety and tolerability,Africa,25,Not yet started,0,Managed by external clinical research organization
+CT-011,Phase II,Drug H,15/06/2024,14/08/2026,1,900,000,Assess efficacy and safety,Europe,200,Not yet started,0,In-house clinical team
+CT-012,Phase III,Drug I,10/09/2024,09/03/2027,8,000,000,Assess efficacy and safety,Asia,800,Not yet started,0,Managed by external clinical research organization
+CT-013,Phase I,Product A,01/01/2025,31/12/2026,700,000,Assess safety and tolerability,USA,30,Not yet started,0,In-house clinical team
+CT-014,Phase II,Product B,15/03/2025,14

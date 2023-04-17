@@ -1,0 +1,34 @@
+Product Name,Year,Marketing Cost (USD),Sales Cost (USD),Promotion Type,Location,Target Audience,Duration (months)
+Tylenol,2020,20000,50000,TV,USA,General public,3
+Zocor,2020,30000,70000,Print,USA,Doctors,6
+Lipitor,2020,40000,80000,Online,USA,General public,9
+Nexium,2020,50000,90000,TV,Canada,General public,12
+Crestor,2020,60000,100000,Print,Canada,Pharmacists,3
+Humira,2020,70000,110000,Online,Canada,Doctors,6
+Xarelto,2020,80000,120000,TV,Mexico,General public,9
+Remicade,2020,90000,130000,Print,Mexico,Pharmacists,12
+Viagra,2020,100000,140000,Online,UK,General public,3
+Lyrica,2020,110000,150000,TV,UK,Doctors,6
+Advair,2020,120000,160000,Print,UK,General public,9
+Enbrel,2020,130000,170000,Online,Germany,Pharmacists,12
+Lantus,2020,140000,180000,TV,Germany,General public,3
+Celebrex,2020,150000,190000,Print,Germany,Doctors,6
+Nasonex,2020,160000,200000,Online,Australia,General public,9
+Spiriva,2020,170000,210000,TV,Australia,Pharmacists,12
+Cymbalta,2020,180000,220000,Print,Australia,Doctors,3
+Abilify,2020,190000,230000,Online,France,General public,6
+Gilenya,2020,200000,240000,TV,France,Doctors,9
+Sovaldi,2020,210000,250000,Print,France,General public,12
+Lumigan,2020,220000,260000,Online,Japan,Pharmacists,3
+Januvia,2020,230000,270000,TV,Japan,General public,6
+Zytiga,2020,240000,280000,Print,Japan,Doctors,9
+Opdivo,2020,250000,290000,Online,China,General public,12
+Keytruda,2020,260000,300000,TV,China,Pharmacists,3
+Xtandi,2020,270000,310000,Print,China,Doctors,6
+Ibrance,2020,280000,320000,Online,Brazil,General public,9
+Stelara,2020,290000,330000,TV,Brazil,Doctors,12
+Herceptin,2020,300000,340000,Print,Brazil,General public,3
+Rituxan,2020,310000,350000,Online,India,Pharmacists,6
+Eylea,2020,320000,360000,TV,India,General public,9
+Avastin,2020,330000,370000,Print,India,Doctors,12
+

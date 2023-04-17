@@ -1,0 +1,25 @@
+Date,Supplier,Product,Quantity,Cost,Mode of Shipping,Distance (km),Fuel Consumed (liters)
+2022-01-01,ABC Pharmaceuticals,Lipitor,100,200.00,FedEx,100,10.0
+2022-01-02,XYZ Pharmaceuticals,Zoloft,50,150.00,UPS,200,15.0
+2022-01-03,Medline Industries Inc.,Tylenol,200,300.00,FedEx,50,5.0
+2022-01-04,Cardinal Health Inc.,Viagra,20,100.00,USPS,500,50.0
+2022-01-05,McKesson Corporation,Advil,150,250.00,FedEx,150,12.0
+2022-01-06,ABC Pharmaceuticals,Adderall,75,225.00,UPS,300,25.0
+2022-01-07,Novartis AG,Aspirin,250,175.00,DHL,400,40.0
+2022-01-08,Pfizer Inc.,Celebrex,30,90.00,USPS,100,8.0
+2022-01-09,Teva Pharmaceutical Industries Ltd.,Paxil,50,150.00,FedEx,200,15.0
+2022-01-10,AstraZeneca PLC,Lexapro,100,300.00,UPS,250,20.0
+2022-01-11,Sanofi S.A.,Prozac,75,225.00,FedEx,50,5.0
+2022-01-12,GlaxoSmithKline PLC,Albuterol,200,400.00,USPS,500,50.0
+2022-01-13,Merck & Co., Inc.,Seroquel,20,100.00,DHL,150,12.0
+2022-01-14,Abbott Laboratories,Humira,10,300.00,UPS,300,25.0
+2022-01-15,Boehringer Ingelheim GmbH,Xanax,50,150.00,USPS,400,40.0
+2022-01-16,Eli Lilly and Company,Cymbalta,30,90.00,FedEx,100,8.0
+2022-01-17,Johnson & Johnson,Remicade,15,450.00,DHL,200,15.0
+2022-01-18,Mylan N.V.,Lisinopril,200,300.00,UPS,250,20.0
+2022-01-19,Bristol-Myers Squibb Company,Plavix,100,175.00,FedEx,50,5.0
+2022-01-20,AbbVie Inc.,Hepatitis C drug,10,500.00,USPS,500,50.0
+2022-01-21,Gilead Sciences, Inc.,Truvada,20,600.00,FedEx,100,8.0
+2022-01-22,Novo Nordisk A/S,Insulin,50,150.00,UPS,150,12.0
+2022-01-23,Roche Holding AG,Herceptin,5,500.00,DHL,300,25.0
+

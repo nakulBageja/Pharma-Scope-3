@@ -1,0 +1,23 @@
+Activity, Category, Sub-Category, Year 1 Spend, Year 2 Spend, Year 3 Spend, Year 4 Spend, Year 5 Spend
+Pre-Clinical Research, Research and Development, Pre-Clinical Research, 2000000, 2100000, 2150000, 2200000, 2250000
+Toxicology Studies, Research and Development, Pre-Clinical Research, 1200000, 1300000, 1350000, 1400000, 1450000
+Drug Discovery, Research and Development, Drug Discovery, 4500000, 4600000, 4650000, 4700000, 4750000
+Formulation Development, Research and Development, Drug Formulation, 3000000, 3100000, 3200000, 3300000, 3400000
+Clinical Trials, Research and Development, Clinical Trials, 5000000, 5500000, 6000000, 6500000, 7000000
+Patient Recruitment, Research and Development, Clinical Trials, 1000000, 1200000, 1250000, 1300000, 1350000
+Site Management, Research and Development, Clinical Trials, 500000, 550000, 600000, 650000, 700000
+Data Management, Research and Development, Clinical Trials, 1500000, 1600000, 1650000, 1700000, 1750000
+Medical Monitoring, Research and Development, Clinical Trials, 750000, 800000, 850000, 900000, 950000
+Statistical Analysis, Research and Development, Clinical Trials, 2000000, 2100000, 2150000, 2200000, 2250000
+Regulatory Affairs, Research and Development, Regulatory Affairs, 750000, 800000, 850000, 900000, 950000
+Quality Assurance, Research and Development, Regulatory Affairs, 500000, 550000, 600000, 650000, 700000
+Intellectual Property, Research and Development, Intellectual Property, 1500000, 1600000, 1650000, 1700000, 1750000
+Product Launch, Research and Development, Product Launch, 2500000, 3000000, 3500000, 4000000, 4500000
+Post-Marketing Surveillance, Research and Development, Post-Marketing Surveillance, 1000000, 1100000, 1150000, 1200000, 1250000
+Continuing Medical Education, Research and Development, Post-Marketing Surveillance, 500000, 550000, 600000, 650000, 700000
+Market Research, Research and Development, Market Research, 1000000, 1200000, 1250000, 1300000, 1350000
+Competitive Intelligence, Research and Development, Market Research, 750000, 800000, 850000, 900000, 950000
+Clinical Development Planning, Research and Development, Clinical Development Planning, 500000, 550000, 600000, 650000, 700000
+Clinical Pharmacology, Research and Development, Clinical Pharmacology, 2500000, 2600000, 2650000, 2700000, 2750000
+
+

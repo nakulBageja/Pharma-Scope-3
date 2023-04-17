@@ -1,0 +1,12 @@
+Employee Name,Department,Travel Date,Travel Purpose,Travel Distance (in miles),Travel Mode,Travel Cost
+John Smith,Manufacturing,2022-01-03,Meeting with suppliers,10,Car,$50.00
+Jane Doe,Manufacturing,2022-01-04,Factory visit,20,Car,$75.00
+Michael Lee,Manufacturing,2022-01-05,Meeting with Quality Control team,15,Car,$65.00
+Samantha Davis,Manufacturing,2022-01-06,Site visit to new facility,50,Car,$150.00
+David Johnson,Manufacturing,2022-01-07,Equipment inspection,5,Walk,$0.00
+Karen Garcia,Manufacturing,2022-01-10,Training session,8,Car,$40.00
+Richard Martinez,Manufacturing,2022-01-11,Equipment troubleshooting,3,Walk,$0.00
+Maria Hernandez,Manufacturing,2022-01-12,Meeting with Production team,10,Bike,$0.00
+William Clark,Manufacturing,2022-01-13,Quality assurance check,15,Car,$65.00
+Kimberly Scott,Manufacturing,2022-01-14,Site visit to vendor,30,Car,$100.00
+...

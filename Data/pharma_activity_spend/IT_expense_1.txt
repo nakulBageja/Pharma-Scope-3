@@ -1,0 +1,38 @@
+Date,Expense Category,Expense Description,Amount,Department
+2022-01-01,Software,Annual Subscription to Microsoft Office Suite,15000,IT
+2022-01-02,Hardware,New Dell Laptop for employee,10000,IT
+2022-01-03,Software,Monthly Subscription to Salesforce CRM,500,Marketing
+2022-01-04,Services,IT consulting services for network upgrade,50000,IT
+2022-01-05,Software,Annual Subscription to Adobe Creative Suite,20000,Marketing
+2022-01-06,Hardware,New HP Desktop for employee,8000,IT
+2022-01-07,Services,Data backup and recovery services,3000,IT
+2022-01-08,Software,Monthly Subscription to Zoom Video Conferencing,300,HR
+2022-01-09,Hardware,New Macbook Pro for employee,4000,Marketing
+2022-01-10,Services,IT security assessment and audit,4000,IT
+2022-01-11,Software,Annual Subscription to Oracle Database,5000,IT
+2022-01-12,Hardware,New Surface Pro for employee,1500,IT
+2022-01-13,Services,Cloud hosting and maintenance services,20000,IT
+2022-01-14,Software,Monthly Subscription to Slack,200,HR
+2022-01-15,Hardware,New Lenovo Desktop for employee,600,IT
+2022-01-16,Services,IT support and maintenance contract,5000,IT
+2022-01-17,Software,Annual Subscription to Symantec Endpoint Protection,3000,IT
+2022-01-18,Hardware,New Dell Monitor for employee,2000,IT
+2022-01-19,Services,IT project management consulting,9500,IT
+2022-01-20,Software,Monthly Subscription to Microsoft Teams,950,HR
+2022-01-21,Hardware,New HP Printer for office,3000,IT
+2022-01-22,Services,Website design and development,10000,Marketing
+2022-01-23,Software,Annual Subscription to AutoCAD,5000,Engineering
+2022-01-24,Hardware,New Apple iMac for employee,25000,Marketing
+2022-01-25,Services,IT training and development program,6000,IT
+2022-01-26,Software,Monthly Subscription to DocuSign,150,HR
+2022-01-27,Hardware,New Lenovo Laptop for employee,1200,IT
+2022-01-28,Services,Disaster recovery and business continuity planning,5000,IT
+2022-01-29,Software,Annual Subscription to SAP ERP,10000,IT
+2022-01-30,Hardware,New Dell Server for data center,5000,IT
+2022-02-01,Software,Monthly Subscription to Asana,150,HR
+2022-02-02,Hardware,New Cisco Router for office network,3000,IT
+2022-02-03,Services,IT help desk support services,4000,IT
+2022-02-04,Software,Annual Subscription to Tableau Analytics,8000,Marketing
+2022-02-05,Hardware,New Dell Workstation for employee,1500,IT
+2022-02-06,Services,IT infrastructure upgrade,10000,IT
+

@@ -1,0 +1,71 @@
+Date,Item,Quantity,Unit Price,Total Cost,Department
+2021-01-01,Printer Ink,5,$50,$250,Administration
+2021-01-05,Copier Paper,10 reams,$40,$400,Finance
+2021-01-07,Stapler,1,$20,$20,Human Resources
+2021-01-10,Printer Paper,20 reams,$30,$600,Administration
+2021-01-12,Highlighters,6 packs,$10,$60,Research and Development
+2021-01-15,Sticky Notes,12 pads,$5,$60,Administration
+2021-01-18,Whiteboard Markers,8 packs,$15,$120,Marketing
+2021-01-20,Pens,20,$2,$40,Human Resources
+2021-01-22,File Folders,10 packs,$25,$250,Finance
+2021-01-25,Calculator,1,$50,$50,Administration
+2021-01-28,Postage Stamps,100 stamps,$0.50,$50,Marketing
+2021-02-01,Printer Toner,2,$100,$200,Administration
+2021-02-03,Paperclips,5 boxes,$10,$50,Human Resources
+2021-02-06,Envelopes,20 packs,$15,$300,Finance
+2021-02-09,Correction Tape,4 packs,$8,$32,Research and Development
+2021-02-12,Staples,3 boxes,$15,$45,Administration
+2021-02-15,Binders,5,$20,$100,Marketing
+2021-02-18,Scissors,3 pairs,$15,$45,Human Resources
+2021-02-21,Desk Organizer,1,$30,$30,Finance
+2021-02-24,Printer Cartridges,4,$75,$300,Administration
+2021-03-01,Correction Fluid,6 bottles,$5,$30,Research and Development
+2021-03-04,Planner,1,$25,$25,Marketing
+2021-03-07,Paper Punch,1,$20,$20,Human Resources
+2021-03-10,Whiteboard Erasers,5,$10,$50,Administration
+2021-03-13,Three-Ring Binders,10,$15,$150,Finance
+2021-03-16,Eraser,10,$2,$20,Research and Development
+2021-03-19,Mouse Pad,3,$8,$24,Administration
+2021-03-22,Self-Stick Note Pads,10,$5,$50,Marketing
+2021-03-25,Tape Dispenser,1,$15,$15,Human Resources
+2021-03-28,File Cabinet,1,$300,$300,Finance
+2021-04-01,Markers,10 packs,$10,$100,Administration
+2021-04-04,Staple Remover,1,$5,$5,Research and Development
+2021-04-07,Rulers,5,$5,$25,Marketing
+2021-04-10,Push Pins,5 boxes,$10,$50,Human Resources
+2021-04-13,Paper Shredder,1,$200,$200,Administration
+2021-04-16,Business Card Holders,3,$15,$45,Finance
+2021-04-19,Binder Clips,5 boxes
+2021-01-01,Paper,500,$0.50,$250.00,Admin
+2021-01-05,Printer Ink,4,$25.00,$100.00,Admin
+2021-01-10,Stapler,2,$10.00,$20.00,Admin
+2021-01-15,File Folders,50,$0.75,$37.50,Admin
+2021-01-20,Highlighters,10,$1.50,$15.00,Admin
+2021-01-25,Paper Clips,500,$0.01,$5.00,Admin
+2021-02-01,Whiteboard Markers,8,$2.00,$16.00,Admin
+2021-02-05,Notepads,20,$2.50,$50.00,Admin
+2021-02-10,Sticky Notes,100,$0.50,$50.00,Admin
+2021-02-15,Toner,2,$100.00,$200.00,Admin
+2021-02-20,Envelopes,200,$0.10,$20.00,Admin
+2021-02-25,Scissors,4,$8.00,$32.00,Admin
+2021-03-01,Paper,500,$0.50,$250.00,Admin
+2021-03-05,Printer Ink,4,$25.00,$100.00,Admin
+2021-03-10,Stapler,2,$10.00,$20.00,Admin
+2021-03-15,File Folders,50,$0.75,$37.50,Admin
+2021-03-20,Highlighters,10,$1.50,$15.00,Admin
+2021-03-25,Paper Clips,500,$0.01,$5.00,Admin
+2021-04-01,Whiteboard Markers,8,$2.00,$16.00,Admin
+2021-04-05,Notepads,20,$2.50,$50.00,Admin
+2021-04-10,Sticky Notes,100,$0.50,$50.00,Admin
+2021-04-15,Toner,2,$100.00,$200.00,Admin
+2021-04-20,Envelopes,200,$0.10,$20.00,Admin
+2021-04-25,Scissors,4,$8.00,$32.00,Admin
+2021-05-01,Paper,500,$0.50,$250.00,Admin
+2021-05-05,Printer Ink,4,$25.00,$100.00,Admin
+2021-05-10,Stapler,2,$10.00,$20.00,Admin
+2021-05-15,File Folders,50,$0.75,$37.50,Admin
+2021-05-20,Highlighters,10,$1.50,$15.00,Admin
+2021-05-25,Paper Clips,500,$0.01,$5.00,Admin
+2021-06-01,Whiteboard Markers,8,$2.00,$16.00,Admin
+2021-06-05,Notepads,20,$2.50,$50.00,Admin
+2021

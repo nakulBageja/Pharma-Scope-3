@@ -1,0 +1,24 @@
+Date,Supplier Name,Material Type,Quantity,Unit Price,Total Price,Mode of Shipping,Distance (in km),Fuel Type,Fuel Quantity (in liters)
+2022-01-01,ABC Laboratories,Chemicals,500,10,5000,Air Freight,8000,Jet Fuel,400
+2022-01-02,XYZ Supplies,Lab Equipment,2,5000,10000,Road Freight,50,Diesel,20
+2022-01-03,ABC Laboratories,Reagents,200,50,10000,Sea Freight,5000,Heavy Fuel Oil,2000
+2022-01-04,ACME Supplies,Lab Glassware,50,20,1000,Rail Freight,200,Diesel,30
+2022-01-05,XYZ Supplies,Lab Equipment,1,15000,15000,Air Freight,10000,Jet Fuel,800
+2022-01-06,ABC Laboratories,Chemicals,1000,5,5000,Road Freight,500,Diesel,100
+2022-01-07,XYZ Supplies,Lab Equipment,3,7500,22500,Road Freight,300,Diesel,50
+2022-01-08,ACME Supplies,Lab Glassware,75,10,750,Road Freight,100,Diesel,15
+2022-01-09,ABC Laboratories,Reagents,300,50,15000,Sea Freight,5000,Heavy Fuel Oil,2000
+2022-01-10,XYZ Supplies,Lab Equipment,2,10000,20000,Air Freight,5000,Jet Fuel,400
+2022-01-11,ACME Supplies,Lab Glassware,50,20,1000,Rail Freight,200,Diesel,30
+2022-01-12,ABC Laboratories,Chemicals,500,10,5000,Road Freight,500,Diesel,100
+2022-01-13,XYZ Supplies,Lab Equipment,1,20000,20000,Air Freight,10000,Jet Fuel,800
+2022-01-14,ABC Laboratories,Reagents,200,50,10000,Sea Freight,5000,Heavy Fuel Oil,2000
+2022-01-15,ACME Supplies,Lab Glassware,75,10,750,Road Freight,100,Diesel,15
+2022-01-16,XYZ Supplies,Lab Equipment,3,7500,22500,Road Freight,300,Diesel,50
+2022-01-17,ABC Laboratories,Chemicals,1000,5,5000,Road Freight,500,Diesel,100
+2022-01-18,XYZ Supplies,Lab Equipment,2,10000,20000,Air Freight,5000,Jet Fuel,400
+2022-01-19,ACME Supplies,Lab Glassware,50,20,1000,Rail Freight,200,Diesel,30
+2022-01-20,ABC Laboratories,Reagents,300,50,15000,Sea Freight,5000,Heavy Fuel Oil,2000
+2022-01-21,XYZ Supplies,Lab Equipment,1,15000,15000,Air Freight,10000,Jet Fuel,800
+2022-01-22,ABC Laboratories,Chemicals,500,10,5000,Road Freight,500,Diesel,100
+2022-

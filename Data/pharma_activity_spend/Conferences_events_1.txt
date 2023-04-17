@@ -1,0 +1,22 @@
+Date,Event Name,Location,Cost,Number of Attendees,Travel Cost,Accommodation Cost,Meals Cost,Other Costs
+2022-05-10,International Conference on Pharmaceutical Sciences,New York,8000,10,2000,3000,1500,500
+2022-06-15,European Congress on Clinical Trials in Oncology,London,10000,8,3000,4000,2000,1000
+2022-07-20,World Pharma Congress,Singapore,12000,15,5000,3000,2500,1500
+2022-09-05,American Society of Clinical Oncology Annual Meeting,Chicago,15000,20,6000,5000,3000,2000
+2022-10-12,International Conference on Drug Discovery and Therapy,Dubai,9000,12,4000,2500,1500,1000
+2022-11-18,Asia Pacific Pharma Congress,Beijing,7000,8,2000,3000,1500,500
+2023-01-25,International Conference on Clinical Trials,Madrid,10000,15,4000,3000,2000,1000
+2023-03-09,World Pharma Summit,Mumbai,11000,10,4000,4000,2000,1000
+2023-04-15,American Association of Pharmaceutical Scientists Annual Meeting,Orlando,12000,18,5000,3000,2500,1500
+2023-05-30,International Conference on Pharmacology and Toxicology,Las Vegas,8000,12,2500,3000,1500,1000
+2023-07-01,World Congress on Advanced Pharmacy and Clinical Research,Sydney,14000,20,6000,5000,3000,2000
+2023-08-20,International Conference on Pharmacy and Pharmaceutical Sciences,Paris,10000,15,4000,3000,2000,1000
+2023-09-29,Global Pharma Summit,Tokyo,15000,25,7000,5000,3000,2000
+2023-11-05,International Pharmaceutical Conference and Expo,Milan,9000,12,4000,2500,1500,1000
+2024-01-10,World Congress on Pharmaceutical Sciences and Innovations,Barcelona,11000,18,5000,3000,2500,1500
+2024-02-20,International Conference on Biopharmaceutics and Biologic Drugs,San Francisco,12000,20,6000,5000,3000,2000
+2024-04-01,World Congress on Pharmaceutical Biotechnology,London,14000,25,7000,5000,3000,2000
+2024-05-10,International Conference on Clinical Pharmacy and Pharmacy Practice,Munich,8000,12,2500,3000,1500,1000
+2024-06-15,Global Summit on Generic Drugs and Quality Control,Seoul,10000,18,4000,3500,2000,1500
+2024-07-20,International Conference on Pharmaceutics and Novel Drug Delivery Systems,Melbourne,11000,20,5000,3000,2500,1500
+2024-09-05,International Conference on Pharmaceutical Chemistry and Drug Design,New York,

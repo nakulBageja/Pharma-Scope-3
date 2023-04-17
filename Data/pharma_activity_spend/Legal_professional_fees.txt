@@ -1,0 +1,33 @@
+Date,Description,Category,Amount
+2022-01-03,Legal fees for patent application,Legal,$5,000.00
+2022-01-10,Accounting services for year-end financial statements,Accounting,$7,500.00
+2022-01-15,Consulting services for supply chain optimization,Consulting,$10,000.00
+2022-02-01,Legal fees for reviewing and drafting contracts,Legal,$3,000.00
+2022-02-10,Accounting services for tax preparation,Accounting,$9,000.00
+2022-02-15,Consulting services for marketing strategy,Consulting,$8,500.00
+2022-03-01,Legal fees for trademark registration,Legal,$4,500.00
+2022-03-10,Accounting services for monthly financial statements,Accounting,$5,000.00
+2022-03-15,Consulting services for clinical trial design,Consulting,$12,000.00
+2022-04-01,Legal fees for compliance issues,Legal,$6,000.00
+2022-04-10,Accounting services for budget planning,Accounting,$8,000.00
+2022-04-15,Consulting services for manufacturing process improvement,Consulting,$11,000.00
+2022-05-01,Legal fees for contract negotiation,Legal,$4,000.00
+2022-05-10,Accounting services for audit preparation,Accounting,$10,500.00
+2022-05-15,Consulting services for market research,Consulting,$7,500.00
+2022-06-01,Legal fees for intellectual property litigation,Legal,$15,000.00
+2022-06-10,Accounting services for cost analysis,Accounting,$6,500.00
+2022-06-15,Consulting services for clinical data analysis,Consulting,$9,000.00
+2022-07-01,Legal fees for regulatory compliance,Legal,$5,500.00
+2022-07-10,Accounting services for cash flow management,Accounting,$8,000.00
+2022-07-15,Consulting services for brand strategy,Consulting,$7,000.00
+2022-08-01,Legal fees for mergers and acquisitions,Legal,$20,000.00
+2022-08-10,Accounting services for financial modeling,Accounting,$11,500.00
+2022-08-15,Consulting services for product development,Consulting,$14,000.00
+2022-09-01,Legal fees for dispute resolution,Legal,$8,500.00
+2022-09-10,Accounting services for accounts receivable,Accounting,$4,500.00
+2022-09-15,Consulting services for sales strategy,Consulting,$6,000.00
+2022-10-01,Legal fees for employment law,Legal,$7,000.00
+2022-10-10,Accounting services for inventory management,Accounting,$9,500.00
+2022-10-15,Consulting services for product launch,Consulting,$13,000.00
+2022-11-01,Legal fees for corporate governance,Legal,$6,500.00
+2022-11-10,Accounting services for financial statement analysis,Accounting,$7,

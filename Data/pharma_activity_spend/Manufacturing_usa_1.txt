@@ -1,0 +1,34 @@
+Facility Name,Product Name,Fuel (Gallons),Cooling (kWh),Electricity (kWh),Manufacturing Cost ($)
+Seattle Plant,Ambroxol Hydrochloride,4200,32000,120000,36000
+Seattle Plant,Aripiprazole,6100,52000,190000,48000
+Seattle Plant,Azithromycin,5200,42000,160000,42000
+Seattle Plant,Buprenorphine,3900,29000,100000,31000
+Seattle Plant,Buspirone Hydrochloride,3500,25000,90000,28000
+Seattle Plant,Caffeine,2900,21000,75000,24000
+Seattle Plant,Calcium Carbonate,5800,42000,150000,39000
+Seattle Plant,Carboplatin,7200,62000,230000,55000
+Seattle Plant,Cefixime Trihydrate,4900,38000,140000,37000
+Seattle Plant,Celecoxib,4500,34000,120000,34000
+Seattle Plant,Cetirizine Dihydrochloride,3600,26000,94000,30000
+Seattle Plant,Ciprofloxacin,5700,48000,180000,46000
+Seattle Plant,Clarithromycin,5100,42000,150000,39000
+Seattle Plant,Clindamycin Hydrochloride,4800,37000,130000,35000
+Seattle Plant,Clopidogrel Bisulfate,3800,28000,100000,31000
+Seattle Plant,Clozapine,6000,50000,190000,47000
+Seattle Plant,Diclofenac Sodium,5500,46000,170000,44000
+Seattle Plant,Donepezil Hydrochloride,4400,35000,130000,34000
+Seattle Plant,Doxazosin Mesylate,3300,24000,88000,27000
+Seattle Plant,Erythromycin,4600,36000,130000,35000
+Seattle Plant,Esomeprazole Magnesium,5700,47000,180000,46000
+Seattle Plant,Ezetimibe,3900,29000,100000,31000
+Seattle Plant,Famciclovir,5200,42000,160000,42000
+Seattle Plant,Fexofenadine Hydrochloride,4200,32000,120000,36000
+Seattle Plant,Fluconazole,6400,55000,210000,51000
+Seattle Plant,Fluoxetine Hydrochloride,4900,38000,140000,37000
+Seattle Plant,Fluticasone Propionate,3800,28000,100000,31000
+Seattle Plant,Furosemide,4700,36000,130000,34000
+Seattle Plant,Gabapentin,5000,40000,150000,40000
+Seattle Plant,Glimepiride,4400,35000,130000,34000
+Seattle Plant,Hydrochlorothiazide,3300,24000,88000,27000
+Seattle Plant,Hydroxychloroquine Sulfate,5800,42000,150000,39000
+Seattle Plant,Imipenem-Cilastatin Sodium,7100,61000,230000

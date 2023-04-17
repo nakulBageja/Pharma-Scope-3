@@ -1,0 +1,24 @@
+Material Type,Material Name,Quantity,Unit Cost,Total Cost,Supplier Name,Shipping Mode,Shipping Distance (km),Fuel Consumed (L)
+Active Pharmaceutical Ingredient,Paracetamol,1000 kg,5.00,5000.00,ABC Chemicals,Truck,250,200
+Excipient,Starch,500 kg,2.00,1000.00,XYZ Corporation,Ship,1500,1000
+Packaging Material,Plastic Bottle,50000 units,0.10,5000.00,Package Industries,Truck,100,50
+Active Pharmaceutical Ingredient,Ibuprofen,750 kg,8.00,6000.00,PQR Chemicals,Train,500,400
+Excipient,Magnesium Stearate,200 kg,6.00,1200.00,JKL Corporation,Truck,300,240
+Packaging Material,Aluminum Foil,20000 units,0.15,3000.00,Package Industries,Ship,2000,500
+Active Pharmaceutical Ingredient,Aspirin,500 kg,10.00,5000.00,MNO Chemicals,Truck,200,160
+Excipient,Lactose,400 kg,4.00,1600.00,ABC Corporation,Train,800,640
+Packaging Material,Glass Vial,10000 units,0.25,2500.00,Package Industries,Truck,150,120
+Active Pharmaceutical Ingredient,Ciprofloxacin,250 kg,20.00,5000.00,DEF Chemicals,Ship,10000,2500
+Excipient,Cellulose,100 kg,7.00,700.00,XYZ Corporation,Truck,75,60
+Packaging Material,Plastic Bag,5000 units,0.05,250.00,Package Industries,Train,2500,2000
+Active Pharmaceutical Ingredient,Atorvastatin,500 kg,15.00,7500.00,PQR Chemicals,Truck,300,240
+Excipient,Povidone,300 kg,5.00,1500.00,JKL Corporation,Ship,500,125
+Packaging Material,Paper Box,20000 units,0.20,4000.00,Package Industries,Truck,200,160
+Active Pharmaceutical Ingredient,Metformin,1000 kg,6.00,6000.00,ABC Chemicals,Train,1000,800
+Excipient,Sodium Starch Glycolate,150 kg,3.50,525.00,MNO Corporation,Truck,100,80
+Packaging Material,Plastic Container,5000 units,0.08,400.00,Package Industries,Ship,3000,750
+Active Pharmaceutical Ingredient,Acetaminophen,800 kg,7.50,6000.00,DEF Chemicals,Truck,200,160
+Excipient,Microcrystalline Cellulose,200 kg,9.00,1800.00,JKL Corporation,Train,400,320
+Packaging Material,Plastic Tube,10000 units,0.12,1200.00,Package Industries,Truck,100,80
+Active Pharmaceutical Ingredient,Losartan,500 kg,18.00,9000.00,PQR Chemicals,Ship,8000,200
+

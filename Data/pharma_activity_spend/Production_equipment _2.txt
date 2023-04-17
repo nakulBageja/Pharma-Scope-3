@@ -1,0 +1,18 @@
+Equipment Name, Equipment Type, Supplier, Purchase Date, Purchase Cost, Maintenance Cost, Production Capacity, Power Consumption
+Blister Packing Machine, Packaging Equipment, Bosch Packaging Technology, 2020-05-23, $150000, $5000, 4000 packs/hour, 10 kW
+Capsule Filling Machine, Filling Equipment, ACG Pam Pharma Technologies, 2021-01-11, $250000, $10000, 20000 capsules/hour, 20 kW
+High Shear Mixer Granulator, Mixing Equipment, SaintyCo, 2019-09-30, $200000, $8000, 500 kg/batch, 15 kW
+Tablet Coating Machine, Coating Equipment, IMA, 2022-02-14, $300000, $15000, 6000 tablets/hour, 18 kW
+Vial Filling and Sealing Machine, Filling and Sealing Equipment, Optima Pharma, 2018-11-17, $350000, $12000, 1200 vials/hour, 25 kW
+Ampoule Washing Machine, Washing Equipment, NKP Pharma, 2020-08-19, $100000, $4000, 600 ampoules/hour, 8 kW
+Fluid Bed Dryer, Drying Equipment, Glatt, 2021-06-28, $180000, $7500, 300 kg/batch, 12 kW
+Sterilization Tunnel, Sterilization Equipment, Getinge, 2019-03-02, $500000, $20000, 5000 vials/hour, 30 kW
+Automatic Labeling Machine, Labeling Equipment, Krones, 2022-01-05, $250000, $9000, 8000 labels/hour, 16 kW
+Lyophilizer, Freeze Drying Equipment, Millrock Technology, 2020-09-17, $800000, $30000, 1000 vials/batch, 50 kW
+Automatic Cartoning Machine, Cartoning Equipment, Marchesini Group, 2019-07-22, $200000, $6000, 200 cartons/minute, 12 kW
+Rapid Mixer Granulator, Mixing Equipment, LFA Machines, 2021-11-08, $150000, $7000, 400 kg/batch, 14 kW
+Liquid Filling Machine, Filling Equipment, Accutek Packaging Equipment, 2020-12-13, $120000, $5000, 200 bottles/minute, 10 kW
+Tablet Compression Machine, Compression Equipment, Fette, 2019-08-05, $350000, $13000, 30000 tablets/hour, 30 kW
+Ointment Manufacturing Plant, Ointment Equipment, Prism Pharma Machinery, 2021-04-20, $1200000, $40000, 5000 kg/batch, 60 kW
+Fluidized Bed Coater, Coating Equipment, SaintyCo, 2022-03-11, $220000, $8500, 600 kg/batch, 16 kW
+Label Inspection Machine, Inspection Equipment, AutoMate Technologies, 2020-10-07, $180000, $7000

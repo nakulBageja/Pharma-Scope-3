@@ -1,0 +1,32 @@
+Year,Study Phase,Product Name,Expenditure Category,Expenditure Subcategory,Amount (USD)
+2020,Phase 1,Drug A,Clinical Trial Fees,Site Initiation and Set Up,5000
+2020,Phase 1,Drug A,Clinical Trial Fees,Subject Recruitment,15000
+2020,Phase 1,Drug A,Clinical Trial Fees,Data Management,2000
+2020,Phase 1,Drug A,Clinical Trial Fees,Study Monitoring and Management,6000
+2020,Phase 1,Drug A,Clinical Trial Fees,Medical Writing and Reporting,3000
+2020,Phase 2,Drug B,Clinical Trial Fees,Site Initiation and Set Up,7000
+2020,Phase 2,Drug B,Clinical Trial Fees,Subject Recruitment,22000
+2020,Phase 2,Drug B,Clinical Trial Fees,Data Management,3500
+2020,Phase 2,Drug B,Clinical Trial Fees,Study Monitoring and Management,8000
+2020,Phase 2,Drug B,Clinical Trial Fees,Medical Writing and Reporting,4000
+2020,Phase 3,Drug C,Clinical Trial Fees,Site Initiation and Set Up,10000
+2020,Phase 3,Drug C,Clinical Trial Fees,Subject Recruitment,35000
+2020,Phase 3,Drug C,Clinical Trial Fees,Data Management,5000
+2020,Phase 3,Drug C,Clinical Trial Fees,Study Monitoring and Management,12000
+2020,Phase 3,Drug C,Clinical Trial Fees,Medical Writing and Reporting,7000
+2021,Phase 1,Drug D,Clinical Trial Fees,Site Initiation and Set Up,4500
+2021,Phase 1,Drug D,Clinical Trial Fees,Subject Recruitment,13000
+2021,Phase 1,Drug D,Clinical Trial Fees,Data Management,1500
+2021,Phase 1,Drug D,Clinical Trial Fees,Study Monitoring and Management,5500
+2021,Phase 1,Drug D,Clinical Trial Fees,Medical Writing and Reporting,2500
+2021,Phase 2,Drug E,Clinical Trial Fees,Site Initiation and Set Up,6000
+2021,Phase 2,Drug E,Clinical Trial Fees,Subject Recruitment,18000
+2021,Phase 2,Drug E,Clinical Trial Fees,Data Management,2500
+2021,Phase 2,Drug E,Clinical Trial Fees,Study Monitoring and Management,7000
+2021,Phase 2,Drug E,Clinical Trial Fees,Medical Writing and Reporting,3500
+2021,Phase 3,Drug F,Clinical Trial Fees,Site Initiation and Set Up,8000
+2021,Phase 3,Drug F,Clinical Trial Fees,Subject Recruitment,30000
+2021,Phase 3,Drug F,Clinical Trial Fees,Data Management,4500
+2021,Phase 3,Drug F,Clinical Trial Fees,Study Monitoring and Management,10000
+2021,Phase 3,Drug F,Clinical Trial Fees,Medical Writing and Reporting,6000
+2022,Phase 1,Drug G,Clinical Trial Fees,Site Init

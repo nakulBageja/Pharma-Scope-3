@@ -1,0 +1,47 @@
+Promotion Type,Product Name,Region,Expense Type,Expense Amount
+Online advertising,Drug A,West Coast,Online ads,5000
+In-person events,Drug B,Midwest,Event fees,10000
+TV advertising,Drug C,Southeast,Commercial production,25000
+Influencer marketing,Drug D,East Coast,Influencer fees,15000
+Direct mail,Drug E,West Coast,Printing and postage,5000
+Conference sponsorship,Drug F,Midwest,Sponsorship fees,20000
+Social media marketing,Drug G,Southeast,Content creation,10000
+Product samples,Drug H,East Coast,Sample production,7500
+Radio advertising,Drug I,West Coast,Commercial production,5000
+Print advertising,Drug J,Midwest,Print ad design,7500
+Online advertising,Drug K,Southeast,Online ads,10000
+In-person events,Drug L,East Coast,Event fees,15000
+TV advertising,Drug M,West Coast,Commercial production,30000
+Influencer marketing,Drug N,Midwest,Influencer fees,12500
+Direct mail,Drug O,Southeast,Printing and postage,7500
+Conference sponsorship,Drug P,East Coast,Sponsorship fees,25000
+Social media marketing,Drug Q,West Coast,Content creation,12500
+Product samples,Drug R,Midwest,Sample production,5000
+Radio advertising,Drug S,Southeast,Commercial production,7500
+Print advertising,Drug T,East Coast,Print ad design,10000
+Online advertising,Drug U,West Coast,Online ads,5000
+In-person events,Drug V,Midwest,Event fees,10000
+TV advertising,Drug W,Southeast,Commercial production,25000
+Influencer marketing,Drug X,East Coast,Influencer fees,15000
+Direct mail,Drug Y,West Coast,Printing and postage,5000
+Conference sponsorship,Drug Z,Midwest,Sponsorship fees,20000
+Social media marketing,Drug AA,Southeast,Content creation,10000
+Product samples,Drug AB,East Coast,Sample production,7500
+Radio advertising,Drug AC,West Coast,Commercial production,5000
+Print advertising,Drug AD,Midwest,Print ad design,7500
+Online advertising,Drug AE,Southeast,Online ads,10000
+In-person events,Drug AF,West Coast,Event fees,15000
+TV advertising,Drug AG,Midwest,Commercial production,30000
+Influencer marketing,Drug AH,Southeast,Influencer fees,12500
+Direct mail,Drug AI,East Coast,Printing and postage,7500
+Conference sponsorship,Drug AJ,West Coast,Sponsorship fees,25000
+Social media marketing,Drug AK,Midwest,Content creation,12500
+Product samples,Drug AL,Southeast,Sample production,5000
+Radio advertising,Drug AM,East Coast,Commercial production,7500
+Print advertising,Drug AN,West Coast,Print ad design,10000
+Online advertising,Drug AO,Midwest,Online ads,5000
+In-person events,Drug AP,Southeast,Event fees,10000
+TV advertising,Drug AQ,East Coast,Commercial production,25000
+Influencer marketing,Drug AR,West Coast,Influencer fees,15000
+Direct mail,Drug AS,Midwest,Printing and postage,5000
+

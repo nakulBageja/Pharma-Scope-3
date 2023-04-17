@@ -1,0 +1,10 @@
+pandas==1.5.3
+numpy
+geopandas
+geometry
+geopy
+openrouteservice
+searoute
+country_converter
+plotly
+streamlit

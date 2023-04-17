@@ -1,0 +1,24 @@
+Facility Name,Product Name,Fuel Consumed (in gallons),Heating Consumed (in BTUs),Cooling Consumed (in BTUs),Electricity Consumed (in kWh),Total Manufacturing Cost (in USD)
+Alpha Pharma,Amoxicillin,10000,500000,100000,5000,500000
+Alpha Pharma,Aspirin,8000,400000,80000,4000,400000
+Alpha Pharma,Atorvastatin,12000,600000,120000,6000,600000
+Beta Pharmaceuticals,Bevacizumab,15000,750000,150000,7500,750000
+Beta Pharmaceuticals,Cetirizine,10000,500000,100000,5000,500000
+Beta Pharmaceuticals,Erythromycin,12000,600000,120000,6000,600000
+Gamma Drugs,Fluoxetine,9000,450000,90000,4500,450000
+Gamma Drugs,Gabapentin,11000,550000,110000,5500,550000
+Gamma Drugs,Lisinopril,7000,350000,70000,3500,350000
+Delta Pharma,Metformin,8000,400000,80000,4000,400000
+Delta Pharma,Montelukast,10000,500000,100000,5000,500000
+Delta Pharma,Omeprazole,12000,600000,120000,6000,600000
+Epsilon Medicines,Paracetamol,9000,450000,90000,4500,450000
+Epsilon Medicines,Ramipril,11000,550000,110000,5500,550000
+Epsilon Medicines,Sildenafil,15000,750000,150000,7500,750000
+Zeta Pharmaceuticals,Tadalafil,12000,600000,120000,6000,600000
+Zeta Pharmaceuticals,Tamoxifen,8000,400000,80000,4000,400000
+Zeta Pharmaceuticals,Warfarin,10000,500000,100000,5000,500000
+Eta Pharma,Abacavir,7000,350000,70000,3500,350000
+Eta Pharma,Aripiprazole,9000,450000,90000,4500,450000
+Eta Pharma,Buspirone,11000,550000,110000,5500,550000
+Theta Drugs,Clarithromycin,15000,750000,150000,7500,750000
+Theta Drugs,Ciprofloxacin,120

@@ -1,0 +1,29 @@
+Material Type, Material Name, Supplier Name, Quantity, Shipping Mode, Distance (miles), Fuel Consumed (gallons)
+API, Acetaminophen, ABC Company, 1000 kg, Air, 3000, 150
+API, Ibuprofen, XYZ Inc., 800 kg, Truck, 500, 50
+API, Aspirin, DEF Corp, 500 kg, Rail, 1200, 200
+API, Simvastatin, LMN Ltd., 400 kg, Truck, 600, 75
+API, Atorvastatin, GHI Inc., 700 kg, Air, 4000, 200
+Excipient, Microcrystalline Cellulose, ABC Company, 2000 kg, Rail, 1000, 150
+Excipient, Magnesium Stearate, PQR Inc., 1000 kg, Truck, 400, 50
+Excipient, Lactose Monohydrate, DEF Corp, 3000 kg, Air, 5000, 400
+Excipient, Sodium Starch Glycolate, XYZ Inc., 1500 kg, Rail, 800, 120
+Excipient, Croscarmellose Sodium, JKL Ltd., 1200 kg, Truck, 300, 40
+Packaging Material, HDPE Bottles, MNO Inc., 50000 units, Truck, 200, 25
+Packaging Material, Glass Vials, STU Ltd., 25000 units, Rail, 600, 75
+Packaging Material, Aluminum Foil, UVW Inc., 40000 units, Air, 2000, 150
+Packaging Material, PVC Film, GHI Inc., 30000 units, Truck, 400, 50
+Packaging Material, Blister Packaging, XYZ Inc., 10000 units, Air, 3000, 200
+API, Metformin, ABC Company, 900 kg, Truck, 700, 90
+API, Amlodipine, XYZ Inc., 650 kg, Air, 5000, 250
+API, Losartan, PQR Inc., 400 kg, Rail, 800, 120
+API, Omeprazole, DEF Corp, 350 kg, Truck, 600, 75
+API, Lansoprazole, LMN Ltd., 250 kg, Air, 3000, 150
+Excipient, Hypromellose, GHI Inc., 1500 kg, Truck, 400, 50
+Excipient, Polyethylene Glycol, JKL Ltd., 1200 kg, Air, 4000, 300
+Excipient, Polysorbate 80, ABC Company, 800 kg, Rail, 1000, 150
+Excipient, Sodium Lauryl Sulfate, XYZ Inc., 1000 kg, Truck, 300, 40
+Excipient, Glyceryl Monostearate, DEF Corp, 500 kg, Air, 2000, 100
+Packaging Material, PET Bottles, MNO Inc., 75000 units, Truck, 300, 35
+Packaging Material, Plastic Caps, STU Ltd., 100000 units, Rail, 1200, 150
+Packaging Material, Glass Ampoules, UVW Inc., 

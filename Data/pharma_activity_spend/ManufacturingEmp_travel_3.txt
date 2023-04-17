@@ -1,0 +1,27 @@
+Employee Name,Job Title,Department,Mode of Transportation,Distance Traveled (in miles),Travel Date,Travel Purpose,Total Cost (in USD)
+John Smith,Chemist,R&D,Car,15,2022-01-01,Meeting with vendors,35.00
+Jane Doe,Chemical Engineer,R&D,Car,20,2022-01-02,Site visit,45.00
+Mark Johnson,Mechanical Engineer,Engineering,Car,30,2022-01-03,Supplier meeting,60.00
+Emily Lee,Lab Technician,R&D,Public Transportation,5,2022-01-04,Training workshop,15.00
+David Kim,Quality Control Analyst,Quality Control,Car,25,2022-01-05,Site visit,55.00
+Karen Chen,Manufacturing Technician,Manufacturing,Car,10,2022-01-06,Supplier visit,25.00
+Peter Wong,Plant Manager,Manufacturing,Car,50,2022-01-07,Site visit,100.00
+Linda Davis,Supply Chain Manager,Supply Chain,Car,15,2022-01-08,Supplier meeting,35.00
+Mike Brown,Operations Manager,Operations,Car,25,2022-01-09,Site visit,55.00
+Samantha Wilson,Chemist,R&D,Car,20,2022-01-10,Meeting with vendors,45.00
+Benjamin Lee,Chemical Engineer,R&D,Car,30,2022-01-11,Supplier visit,60.00
+Olivia Chen,Mechanical Engineer,Engineering,Public Transportation,15,2022-01-12,Site visit,30.00
+Lucas Smith,Lab Technician,R&D,Car,10,2022-01-13,Training workshop,25.00
+Grace Johnson,Quality Control Analyst,Quality Control,Car,20,2022-01-14,Supplier meeting,45.00
+Steven Kim,Manufacturing Technician,Manufacturing,Car,5,2022-01-15,Supplier visit,15.00
+Mia Chen,Plant Manager,Manufacturing,Car,40,2022-01-16,Site visit,90.00
+William Wong,Supply Chain Manager,Supply Chain,Car,10,2022-01-17,Supplier visit,25.00
+Rachel Davis,Operations Manager,Operations,Car,20,2022-01-18,Site visit,45.00
+Robert Brown,Chemist,R&D,Car,25,2022-01-19,Meeting with vendors,55.00
+Carla Wilson,Chemical Engineer,R&D,Car,35,2022-01-20,Site visit,75.00
+Jack Lee,Mechanical Engineer,Engineering,Public Transportation,10,2022-01-21,Supplier visit,20.00
+Jennifer Chen,Lab Technician,R&D,Car,5,2022-01-22,Training workshop,15.00
+David Wong,Quality Control Analyst,Quality Control,Car,15,2022-01-23,Site visit,35.00
+Michelle Kim,Manufacturing Technician,Manufacturing,Car,20,2022-01-24,Supplier meeting,45.00
+Jason Chen,Plant Manager,Manufacturing,Car,45,2022-01-25,Site visit,95.00
+

@@ -1,0 +1,25 @@
+Facility Name,Product Name,Quantity,Supplier Name,Unit Cost,Total Cost,Mode of Shipping,Distance,Fuel Consumed
+ABC Manufacturing,Paracetamol Tablets,5000,XYZ Pharmaceuticals,0.02,100,Sea Freight,1200,200
+DEF Manufacturing,Lisinopril Tablets,10000,ABC Pharmaceuticals,0.03,300,Sea Freight,1500,250
+GHI Manufacturing,Omeprazole Capsules,2000,PQR Pharmaceuticals,0.04,80,Air Freight,500,100
+JKL Manufacturing,Azithromycin Tablets,3000,LMN Pharmaceuticals,0.05,150,Air Freight,800,150
+MNO Manufacturing,Atorvastatin Tablets,6000,STU Pharmaceuticals,0.03,180,Sea Freight,1000,180
+PQR Manufacturing,Metformin Tablets,8000,VWX Pharmaceuticals,0.02,160,Sea Freight,1200,200
+STU Manufacturing,Levothyroxine Tablets,4000,YZ Pharmaceuticals,0.03,120,Air Freight,600,120
+VWX Manufacturing,Amlodipine Tablets,7000,DEF Pharmaceuticals,0.04,280,Sea Freight,1500,250
+YZ Manufacturing,Ranitidine Tablets,5000,JKL Pharmaceuticals,0.02,100,Sea Freight,1200,200
+ABC Manufacturing,Acetaminophen Tablets,10000,DEF Pharmaceuticals,0.03,300,Sea Freight,1500,250
+DEF Manufacturing,Atenolol Tablets,8000,GHI Pharmaceuticals,0.04,320,Sea Freight,1000,180
+GHI Manufacturing,Ciprofloxacin Tablets,3000,ABC Pharmaceuticals,0.05,150,Air Freight,800,150
+JKL Manufacturing,Clonazepam Tablets,4000,STU Pharmaceuticals,0.03,120,Air Freight,600,120
+MNO Manufacturing,Doxycycline Capsules,6000,VWX Pharmaceuticals,0.02,120,Sea Freight,1200,200
+PQR Manufacturing,Gabapentin Tablets,2000,YZ Pharmaceuticals,0.04,80,Air Freight,500,100
+STU Manufacturing,Metoprolol Tablets,7000,ABC Pharmaceuticals,0.03,210,Sea Freight,1500,250
+VWX Manufacturing,Sildenafil Tablets,5000,DEF Pharmaceuticals,0.02,100,Sea Freight,1200,200
+YZ Manufacturing,Telmisartan Tablets,10000,GHI Pharmaceuticals,0.03,300,Sea Freight,1500,250
+ABC Manufacturing,Venlafaxine Capsules,3000,JKL Pharmaceuticals,0.04,120,Air Freight,600,120
+DEF Manufacturing,Zolpidem Tablets,4000,MNO Pharmaceuticals,0.05,200,Air Freight,800,150
+GHI Manufacturing,Aripiprazole Tablets,2000,PQR Pharmaceuticals,0.04,80,Air Freight,500,100
+JKL Manufacturing,Bupropion Tablets,7000,LMN Pharmaceuticals,0.03,210,Sea Freight,1500,250
+MNO Manufacturing,Citalopram Tablets,10000,STU Pharmaceuticals,0.02,200,Sea Freight,1200,200
+PQR Manufacturing,Escitalopram Tablets,5000,VWX Pharmaceuticals,0
